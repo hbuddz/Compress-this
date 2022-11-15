@@ -1,5 +1,6 @@
 ![icon](https://user-images.githubusercontent.com/79516671/201996801-3611fefb-9fa1-4943-a3be-25adc192467b.png)
 
-Budzy's mod.
-i don't really know what im doing.
+COMPRESS THIS! is about compressing everything, and making it better!
+adds quite a few new blocks, even adds obsidian!
+still in deveolpment. copper as an image because this mod was orginally just compressed copper.
 hope you like it, if you have any ideas, join the discord (https://discord.gg/VvdXTgH5yN)
