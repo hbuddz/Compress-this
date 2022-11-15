@@ -1,0 +1,33 @@
+{
+    "name": "obsidian generator",
+    "type": "GenericCrafter",
+    "description": "uses water and lava to make obsidian",
+    "health": 140,
+    "size": 3,
+    "hasItems": true,
+    "hasliquids": true,
+    "itemcapacity": 20,
+    "craftTime": 75,
+    "buildCostMultiplier": 0.2,
+    "consumes": {
+        "power": 2,
+        "liquids": [
+            "slag/0.2",
+            "water/0.2"
+        ]
+	},
+    "requirements": [
+        "compressed-thorium/200",
+        "compressed-titanium/150",
+        "compressed-lead/50",
+        "compressed-copper/75",
+        "graphite/95",
+        "silicon/100"
+    ],
+    "category": "crafting",
+    "research": [
+        "compressed-thorium",
+        "thorium-compressor"
+    ],
+    "outputItem": "obsidian/5"
+}

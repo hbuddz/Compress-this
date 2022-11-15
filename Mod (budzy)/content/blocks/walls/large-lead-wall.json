@@ -1,0 +1,12 @@
+{
+    "name": "large lead wall",
+    "description": "A large lead wall",
+    "type": "Wall",
+    "health": 1560,
+    "size": 2,
+    "requirements": [
+        "lead/24"
+    ],
+    "category": "defense",
+    "research": "lead-wall"
+}

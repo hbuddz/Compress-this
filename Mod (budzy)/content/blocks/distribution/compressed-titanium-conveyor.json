@@ -1,0 +1,14 @@
+{
+    "type": "Conveyor",
+    "name": "compressed titanium Conveyor",
+    "category": "distribution",
+    "health": 130,
+    "speed": 0.16,
+    "displayedSpeed": 22,
+    "requirements": [
+        "compressed-copper/1",
+        "compressed-lead/1",
+        "compressed-titanium/1"
+    ],
+    "research": "titanium-conveyor"
+}

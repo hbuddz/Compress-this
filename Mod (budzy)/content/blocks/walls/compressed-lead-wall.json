@@ -1,0 +1,12 @@
+{
+    "name": "compressed lead wall",
+    "description": "A compressed lead wall",
+    "type": "Wall",
+    "health": 780,
+    "size": 1,
+    "requirements": [
+        "compressed-lead/6"
+    ],
+    "category": "defense",
+    "research": "large-compressed-copper-wall"
+}

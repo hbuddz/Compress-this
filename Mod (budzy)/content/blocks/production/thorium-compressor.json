@@ -1,0 +1,35 @@
+{	
+	"name": "thorium compressor",
+    "type": "GenericCrafter",
+    "description": "compresses thorium",
+    "health": 200,
+	"drawer": {
+	"type": "DrawSmelter",
+	"flameColor": "ffc099"
+	},
+	"size": 3,
+	"hasItems": true,
+	"itemCapacity": 10,	
+	"craftTime": 50,
+	"craftEffect": "smeltsmoke",
+	"updateEffect": "none",
+	"consumes": {
+		"power": 1,
+		"items": {
+			"items": [
+               "thorium/2"
+			]
+		}
+	},
+	"requirements": [
+		"compressed-titanium/200",
+		"graphite/100",
+        "compressed-lead/75",
+		"compressed-copper/50"
+	],
+	"category": "crafting",
+	"research": [
+		"titanium-compressor"
+	],
+	"outputItem": "compressed-thorium/1"
+}

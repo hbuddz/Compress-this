@@ -1,0 +1,12 @@
+{
+    "name": "compressed titanium wall",
+    "description": "A compressed titanium wall",
+    "type": "Wall",
+    "health": 880,
+    "size": 1,
+    "requirements": [
+        "compressed-titanium/6"
+    ],
+    "category": "defense",
+    "research": "large-compressed-lead-wall"
+}

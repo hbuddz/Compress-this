@@ -1,0 +1,12 @@
+{
+    "name": "compressed thorium wall",
+    "description": "A compressed thorium wall",
+    "type": "Wall",
+    "health": 1600,
+    "size": 1,
+    "requirements": [
+        "compressed-thorium/6"
+    ],
+    "category": "defense",
+    "research": "large-compressed-titanium-wall"
+}

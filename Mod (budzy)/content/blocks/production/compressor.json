@@ -1,0 +1,30 @@
+{	
+	"name": "compressor",
+    "type": "GenericCrafter",
+    "description": "compresses copper",
+    "health": 100,
+	"drawer": {
+	"type": "DrawSmelter",
+	"flameColor": "ffc099"
+	},
+	"size": 2,
+	"hasItems": true,
+	"itemCapacity": 10,	
+	"craftTime": 20,
+	"craftEffect": "smeltsmoke",
+	"updateEffect": "none",
+	"consumes": {
+		"items": {
+			"items": [
+               "copper/2"
+			]
+		}
+	},
+	"requirements": [
+        "copper/50",
+        "lead/25"
+	],
+	"category": "crafting",
+	"research": "copper-wall",
+	"outputItem": "compressed-copper/1"
+}

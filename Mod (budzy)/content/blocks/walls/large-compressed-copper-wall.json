@@ -1,0 +1,17 @@
+{
+    "name": "large compressed copper wall",
+    "description": "A large compressed copper wall",
+    "type": "Wall",
+    "chanceDeflect": 0.55,
+    "lightningChance": 0.35,
+    "lightningLength": 7,
+    "lightningColor": "bf8b2a",
+    "lightningDamage": 4.0,
+    "health": 2560,
+    "size": 2,
+    "requirements": [
+        "compressed-copper/24"
+    ],
+    "category": "defense",
+    "research": "compressed-copper-wall"
+}
