@@ -1,0 +1,16 @@
+{
+    "type": "Conveyor",
+    "name": "compressed conveyor",
+    "description": "A compressed copper conveyor, twice as fast, and twice as durable!",
+    "category": "distribution",
+    "health": 90,
+    "speed": 0.06,
+    "displayedSpeed": 8.4,
+    "requirements": [
+        "compressed-copper/1"
+    ],
+    "research": [
+        "conveyor",
+        "compressed-copper"
+    ]
+}
