@@ -1,0 +1,29 @@
+{	
+	"name": "phase maker",
+    "type": "GenericCrafter",
+    "description": "makes phase fabric faster than the phase weaver",	
+    "health": 190,
+	"size": 2,
+	"hasItems": true,
+	"itemCapacity": 20,	
+	"craftTime": 35,
+	"consumes": {
+		"power": 5,
+		"items": {
+			"items": [
+               "thorium/2",
+			   "sand/5"
+			]
+		}
+	},
+	"requirements": [
+        "compressed-lead/120",
+		"thorium/75",
+		"silicon/130"
+	],
+	"category": "crafting",
+	"research": [
+		"phase-weaver"
+	],
+	"outputItem": "phase-fabric/1"
+}
