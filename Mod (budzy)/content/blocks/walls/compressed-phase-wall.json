@@ -1,0 +1,13 @@
+{
+    "name": "compressed phase fabric wall",
+    "description": "A compressed phase fabric wall",
+    "type": "Wall",
+    "chanceDeflect": 0.50,
+    "health": 1200,
+    "size": 1,
+    "requirements": [
+        "compressed-phase/6"
+    ],
+    "category": "defense",
+    "research": "compressed-titanium-wall"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "large compressed phase fabric wall",
+    "description": "A large compressed phase fabric wall",
+    "type": "Wall",
+    "health": 4800,
+    "size": 2,
+    "requirements": [
+        "compressed-phase/24"
+    ],
+    "category": "defense",
+    "research": "compressed-phase-wall"
+}
