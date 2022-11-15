@@ -1,6 +1,6 @@
 {
     "name": "large obsidian wall",
-    "description": "A large obsidian thorium wall",
+    "description": "A large obsidian wall",
     "type": "Wall",
     "health": 10000,
     "size": 2,

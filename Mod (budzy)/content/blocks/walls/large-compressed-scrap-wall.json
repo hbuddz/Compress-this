@@ -1,0 +1,12 @@
+{
+    "name": "large compressed scrap wall",
+    "description": "A large compressed scrap wall",
+    "type": "Wall",
+    "health": 1920,
+    "size": 2,
+    "requirements": [
+        "compressed-scrap/24"
+    ],
+    "category": "defense",
+    "research": "compressed-scrap-wall"
+}

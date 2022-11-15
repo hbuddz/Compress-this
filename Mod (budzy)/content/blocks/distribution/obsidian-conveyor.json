@@ -1,0 +1,16 @@
+{
+    "type": "Conveyor",
+    "name": "obsidian conveyor",
+    "description": "An obsidian conveyor, super fast and super durable!",
+    "category": "distribution",
+    "health": 350,
+    "speed": 0.32,
+    "displayedSpeed": 44,
+    "requirements": [
+        "obsidian/2",
+        "compressed-titanium/1"
+    ],
+    "research": [
+        "compressed-titanium-conveyor"
+    ]
+}
