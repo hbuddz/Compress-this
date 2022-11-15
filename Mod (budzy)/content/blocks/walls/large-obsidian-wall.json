@@ -1,0 +1,12 @@
+{
+    "name": "large obsidian wall",
+    "description": "A large obsidian thorium wall",
+    "type": "Wall",
+    "health": 10000,
+    "size": 2,
+    "requirements": [
+        "obsidian/24"
+    ],
+    "category": "defense",
+    "research": "obsidian-wall"
+}

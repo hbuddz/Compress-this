@@ -3,10 +3,6 @@
     "type": "GenericCrafter",
     "description": "compresses copper",
     "health": 100,
-	"drawer": {
-	"type": "DrawSmelter",
-	"flameColor": "ffc099"
-	},
 	"size": 2,
 	"hasItems": true,
 	"itemCapacity": 10,	

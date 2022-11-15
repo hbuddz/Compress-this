@@ -7,13 +7,13 @@
     "hasItems": true,
     "hasliquids": true,
     "itemcapacity": 20,
-    "craftTime": 75,
+    "craftTime": 200,
     "buildCostMultiplier": 0.2,
     "consumes": {
-        "power": 2,
+        "power": 8,
         "liquids": [
-            "slag/0.2",
-            "water/0.2"
+            "slag/0.4",
+            "water/0.4"
         ]
 	},
     "requirements": [
@@ -29,5 +29,5 @@
         "compressed-thorium",
         "thorium-compressor"
     ],
-    "outputItem": "obsidian/5"
+    "outputItem": "obsidian/6"
 }
