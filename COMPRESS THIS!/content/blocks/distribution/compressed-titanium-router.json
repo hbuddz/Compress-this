@@ -1,0 +1,12 @@
+{
+    "name": "titanium router",
+    "type": "router",
+    "size": 1,
+    "health": 50,
+    "hasitems": true,
+    "speed": 30,
+    "itemcapacity": 3,
+    "requirements": [
+        "compressed-titanium/2"
+    ]
+}
