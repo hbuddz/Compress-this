@@ -1,0 +1,69 @@
+{
+  "type": "ItemTurret",
+  "name": "lead turret",
+  "description": "shoots compressed lead",
+  "health": 350,
+  "range": 700,
+  "size": 3,
+  "targetAir": true,
+  "targetGround": true,
+  "rotatespeed": 12,
+  "inaccuracy": 0,
+  "xRand": 0,
+  "recoilAmount": 1,
+  "shootSound": "shoot",
+  "buildCostMultiplier": 0.2,
+  "consumes": {
+    "liquid": {
+      "liquid": "oil",
+      "amount": 0.15,
+      "optional": true
+    }
+  },
+  "ammoTypes": {
+    "compressed-lead": {
+      "lifetime": 70,
+      "speed": 7,
+      "type": "BasicBulletType",
+      "ammoMultiplier": 2,
+      "shootEffect": "shootSmall",
+      "width": 6,
+      "damage": 20,
+      "height": 6,
+      "hitEffect": "flakExplosion",
+      "fragBullets": 4,
+      "fragBullet": {
+        "width": 7,
+        "height": 11,
+        "shrinkY": 2,
+        "lifetime": 30,
+        "backColor": "4410EA",
+        "frontColor": "593AB8"
+      }
+    },
+    "compressed-titanium": {
+      "lifetime": 70,
+      "speed": 12,
+      "type": "BasicBulletType",
+      "ammoMultiplier": 3,
+      "shootEffect": "shootSmall",
+      "width": 6,
+      "damage": 35,
+      "height": 6,
+      "hitEffect": "flakExplosion"
+    }
+  },
+
+  "requirements": [
+    {
+      "item": "compressed-copper",
+      "amount": 65
+    },
+    {
+      "item": "compressed-lead",
+      "amount": 45
+    }
+  ],
+  "category": "turret",
+  "research": "lead-compressor"
+}
