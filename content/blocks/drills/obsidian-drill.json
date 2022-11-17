@@ -1,0 +1,28 @@
+{
+  "name": "obsidian drill",
+  "description": "A really powerful drill",
+  "type": "Drill",
+  "health": 350,
+  "size": 4,
+  "liquidCapacity": 250,
+  "itemCapacity": 100,
+  "buildCostMultiplier": 0.35,
+  "tier": 10,
+  "drillTime": 60,
+  "consumes": {
+    "liquid": {
+      "liquid": "oil",
+      "amount": 0.2,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [
+      "obsidian/50",
+      "graphite/50",
+      "compressed-titanium/50",
+      "compressed-thorium/50"
+  ],
+  "category": "production",
+  "research": "obsidian"
+}
