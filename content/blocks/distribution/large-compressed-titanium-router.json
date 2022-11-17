@@ -7,6 +7,7 @@
     "speed": 90,
     "itemcapacity": 3,
     "requirements": [
+        "compressed-copper/9",
         "compressed-titanium/18"
     ]
 }

@@ -1,0 +1,16 @@
+{
+  "name": "titanium Junction",
+  "description": "A better junction",
+  "type": "junction",
+  "dumpTime": 1,
+  "speed": 1,
+  "health": 110,
+  "itemCapacity": 20,
+  "size": 1,
+  "requirements": [
+      "compressed-copper/1",
+      "compressed-titanium/2"
+  ],
+  "category": "distribution",
+  "research": "compressed-titanium-router"
+}
