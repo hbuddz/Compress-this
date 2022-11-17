@@ -1,0 +1,27 @@
+{
+    displayName : Compress this!
+    repo : hbuddz/Compress-this
+    name : COMPRESS THIS!
+
+    author: 
+    '''
+    Coding - [red]hbuddz
+    Sprites - hbuddz & his twot of a brother
+    '''
+
+    description:
+        '''
+        Compress all the things! new conveyors, walls, crafters and more! 
+
+        Check out the discord if you have any ideas or issues --> https://discord.gg/9Ze2xhdMc9
+
+        (Please be patient with updates, as I have no f@*#ing clue what im doing!)
+
+        Enjoy!
+        '''
+
+    subtitle: "Wanna compress stuff?!"
+    minGameVersion : 140.0
+    hidden : false
+    version : "1.5"
+}
