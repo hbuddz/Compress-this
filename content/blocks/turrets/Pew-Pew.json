@@ -1,55 +1,86 @@
 {
   "type": "ItemTurret",
-  "name": "lead turret",
-  "description": "shoots compressed lead",
+  "name": "Pew Pew",
+  "description": "Pew! :)",
   "health": 350,
-  "range": 700,
+  "range": 370,
   "size": 3,
   "targetAir": true,
   "targetGround": true,
   "rotatespeed": 12,
   "inaccuracy": 0,
   "xRand": 0,
-  "recoilAmount": 1,
+  "recoilAmount": 0,
   "shootSound": "shoot",
   "buildCostMultiplier": 0.2,
   "consumes": {
     "liquid": {
+      "booster": true,
       "liquid": "oil",
       "amount": 0.15,
-      "optional": true
+      "optional": true,
+      "reloadMultiplier": 2
     }
   },
   "ammoTypes": {
+     "compressed-copper": {
+      "lifetime": 72,
+      "speed": 5,
+      "type": "BasicBulletType",
+      "ammoMultiplier": 2,
+      "reloadMultiplier": 1,
+      "shootEffect": "shootSmall",
+      "width": 7,
+      "damage": 15,
+      "height": 8,
+      "hitEffect": "flakExplosion"
+    },
+
     "compressed-lead": {
-      "lifetime": 70,
+      "lifetime": 50,
       "speed": 7,
+      "reloadMultiplier": 1,
       "type": "BasicBulletType",
       "ammoMultiplier": 2,
       "shootEffect": "shootSmall",
-      "width": 6,
+      "width": 8,
       "damage": 20,
-      "height": 6,
+      "height": 9,
       "hitEffect": "flakExplosion",
       "fragBullets": 4,
       "fragBullet": {
         "width": 7,
-        "height": 11,
+        "height": 9,
         "shrinkY": 2,
         "lifetime": 30,
         "backColor": "4410EA",
         "frontColor": "593AB8"
       }
     },
+
     "compressed-titanium": {
-      "lifetime": 70,
+      "lifetime": 30,
       "speed": 12,
+      "reloadMultiplier": 1.5,
       "type": "BasicBulletType",
       "ammoMultiplier": 3,
       "shootEffect": "shootSmall",
-      "width": 6,
+      "width": 10,
       "damage": 35,
-      "height": 6,
+      "height": 11,
+      "hitEffect": "flakExplosion"
+    },
+
+    "obsidian": {
+      "lifetime": 18,
+      "speed": 20,
+      "type": "BasicBulletType",
+      "ammoMultiplier": 2,
+      "reloadMultiplier": 3,
+      "shootEffect": "shootSmall",
+      "width": 13,
+      "damage": 85,
+      "height": 14,
       "hitEffect": "flakExplosion"
     }
   },
