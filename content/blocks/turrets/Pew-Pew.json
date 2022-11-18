@@ -16,10 +16,10 @@
   "consumes": {
     "liquid": {
       "booster": true,
+      "update": true,
       "liquid": "oil",
       "amount": 0.15,
-      "optional": true,
-      "reloadMultiplier": 2
+      "optional": true
     }
   },
   "ammoTypes": {

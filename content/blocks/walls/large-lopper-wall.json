@@ -1,0 +1,16 @@
+{
+    "name": "large lopper wall",
+    "description": "A large lead & copper wall",
+    "type": "Wall",
+    "health": 1420,
+    "lightningChance": 0.45,
+    "lightningLength": 11,
+    "lightningColor": "#19e6b9",
+    "lightningDamage": 12.0,
+    "size": 2,
+    "requirements": [
+        "lopper/24"
+    ],
+    "category": "defense",
+    "research": "lopper-wall"
+}

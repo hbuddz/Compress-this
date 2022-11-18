@@ -1,0 +1,19 @@
+{
+    "name": "lopper wall",
+    "description": "a lead & copper wall",
+    "type": "Wall",
+    "health": 355,
+    "lightningChance": 0.25,
+    "lightningLength": 9,
+    "lightningColor": "#19e6b9",
+    "lightningDamage": 8.0,
+    "size": 1,
+    "requirements": [
+        "lopper/6"
+    ],
+    "category": "defense",
+    "research": [
+        "lead-wall",
+        "copper-wall"
+    ]
+}

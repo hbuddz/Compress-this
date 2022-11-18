@@ -21,8 +21,6 @@
 		"obsidian/100"
 	],
 	"category": "crafting",
-	"research": [
-		"phase-weaver"
-	],
+	"research": "phase-weaver",
 	"outputItem": "compressed-phase/1"
 }
