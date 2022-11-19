@@ -1,6 +1,7 @@
 {
-    "name": "compressed-lead",
+    "name": "compressed lead",
     "explosiveness": 0.05,
     "flammability": 0,
-    "charge": 0.1
+    "charge": 0.1,
+    "research": "lead-compressor"
 }

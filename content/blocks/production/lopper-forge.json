@@ -1,7 +1,7 @@
 {	
-	"name": "compressor",
+	"name": "lopper forge",
     "type": "GenericCrafter",
-    "description": "compresses copper",
+    "description": "forges copper & lead",
     "health": 100,
 	"size": 2,
 	"hasItems": true,
@@ -12,15 +12,16 @@
 	"consumes": {
 		"items": {
 			"items": [
-               "copper/2"
+               "copper/1",
+			   "lead/1"
 			]
 		}
 	},
 	"requirements": [
-        "copper/50",
-        "lead/25"
+        "compressed-copper/50",
+        "compressed-lead/25"
 	],
 	"category": "crafting",
-	"research": "graphite-press",
-	"outputItem": "compressed-copper/1"
+	"research": "lead-compressor",
+	"outputItem": "lopper/1"
 }

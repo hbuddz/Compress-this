@@ -9,5 +9,6 @@
     "requirements": [
         "compressed-copper/9",
         "compressed-titanium/18"
-    ]
+    ],
+    "research": "compressed-titanium-router"
 }

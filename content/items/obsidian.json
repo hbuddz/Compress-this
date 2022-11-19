@@ -3,5 +3,6 @@
     "description": "made with lava and water",
     "explosiveness": 0.5,
     "flammability": 0,
-    "charge": 0
+    "charge": 0,
+    "research": "obsidian-cooler"
 }

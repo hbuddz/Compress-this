@@ -22,8 +22,6 @@
 		"silicon/130"
 	],
 	"category": "crafting",
-	"research": [
-		"phase-weaver"
-	],
+	"research": "phase-weaver",
 	"outputItem": "phase-fabric/1"
 }

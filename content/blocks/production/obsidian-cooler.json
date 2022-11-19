@@ -25,9 +25,6 @@
         "silicon/100"
     ],
     "category": "crafting",
-    "research": [
-        "compressed-thorium",
-        "thorium-compressor"
-    ],
+    "research": "thorium-compressor",
     "outputItem": "obsidian/6"
 }

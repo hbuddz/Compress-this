@@ -10,5 +10,6 @@
     "requirements": [
         "compressed-copper/1",
         "compressed-titanium/2"
-    ]
+    ],
+    "research": "compressed-titanium"
 }

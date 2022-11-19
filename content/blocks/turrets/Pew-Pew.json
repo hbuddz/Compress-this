@@ -14,12 +14,8 @@
   "shootSound": "shoot",
   "buildCostMultiplier": 0.2,
   "consumes": {
-    "liquid": {
-      "booster": true,
-      "update": true,
-      "liquid": "oil",
-      "amount": 0.15,
-      "optional": true
+    "coolant": {
+      "amount": 0.15
     }
   },
   "ammoTypes": {

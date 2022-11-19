@@ -21,6 +21,6 @@
         "lead/50"
 	],
 	"category": "crafting",
-	"research": "graphite-press",
+	"research": "compressor",
 	"outputItem": "compressed-lead/1"
 }

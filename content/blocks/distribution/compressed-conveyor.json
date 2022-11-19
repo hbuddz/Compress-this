@@ -9,8 +9,5 @@
     "requirements": [
         "compressed-copper/1"
     ],
-    "research": [
-        "conveyor",
-        "compressed-copper"
-    ]
+    "research": "compressor"
 }

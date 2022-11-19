@@ -22,9 +22,6 @@
 		"graphite/50"
 	],
 	"category": "crafting",
-	"research": [
-		"lead-compressor",
-		"graphite-press"
-	],
+	"research": "lopper-forge",
 	"outputItem": "compressed-titanium/1"
 }

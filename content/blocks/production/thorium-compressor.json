@@ -24,8 +24,6 @@
 		"compressed-copper/50"
 	],
 	"category": "crafting",
-	"research": [
-		"titanium-compressor"
-	],
+	"research": "titanium-compressor",
 	"outputItem": "compressed-thorium/1"
 }

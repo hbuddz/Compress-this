@@ -2,5 +2,6 @@
     "name": "compressed titanium",
     "explosiveness": 0,
     "flammability": 0,
-    "charge": 0.15
+    "charge": 0.15,
+    "research": "titanium-compressor"
 }

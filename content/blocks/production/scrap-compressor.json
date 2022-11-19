@@ -17,9 +17,9 @@
 		}
 	},
 	"requirements": [
-        "copper/25"
+        "compressed-copper/25"
 	],
 	"category": "crafting",
-	"research": "scrap",
+	"research": "compressor",
 	"outputItem": "compressed-scrap/1"
 }

@@ -12,8 +12,5 @@
         "lopper/6"
     ],
     "category": "defense",
-    "research": [
-        "lead-wall",
-        "copper-wall"
-    ]
+    "research": "lopper"
 }
