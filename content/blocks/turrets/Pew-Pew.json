@@ -29,12 +29,11 @@
       "width": 6,
       "damage": 13,
       "height": 7,
-      "hitEffect": "flakExplosion",
       "fragBullets": 3,
       "fragBullet": {
         "width": 2,
+        "damage": 4,
         "height": 3,
-        "damgage": 4,
         "shrinkY": 2,
         "lifetime": 30,
         "backColor": "4410EA",
@@ -55,6 +54,19 @@
       "hitEffect": "flakExplosion"
     },
 
+    "lopper": {
+      "lifetime": 72,
+      "speed": 5,
+      "type": "BasicBulletType",
+      "ammoMultiplier": 3,
+      "reloadMultiplier": 1,
+      "shootEffect": "shootSmall",
+      "width": 8,
+      "damage": 23,
+      "height": 9,
+      "hitEffect": "flakExplosion"
+    },
+
     "compressed-lead": {
       "lifetime": 50,
       "speed": 7,
@@ -65,12 +77,11 @@
       "width": 8,
       "damage": 20,
       "height": 9,
-      "hitEffect": "flakExplosion",
       "fragBullets": 4,
       "fragBullet": {
         "width": 7,
+        "damage": 6,
         "height": 9,
-        "damgage": 6,
         "shrinkY": 2,
         "lifetime": 30,
         "backColor": "4410EA",
@@ -81,13 +92,26 @@
     "compressed-titanium": {
       "lifetime": 30,
       "speed": 12,
-      "reloadMultiplier": 1.5,
+      "reloadMultiplier": 1.3,
       "type": "BasicBulletType",
       "ammoMultiplier": 3,
       "shootEffect": "shootSmall",
       "width": 10,
       "damage": 35,
       "height": 11,
+      "hitEffect": "flakExplosion"
+    },
+
+    "compressed-thorium": {
+      "lifetime": 30,
+      "speed": 12,
+      "reloadMultiplier": 1.5,
+      "type": "BasicBulletType",
+      "ammoMultiplier": 3,
+      "shootEffect": "shootSmall",
+      "width": 11,
+      "damage": 45,
+      "height": 12,
       "hitEffect": "flakExplosion"
     },
 
@@ -101,7 +125,6 @@
       "width": 13,
       "damage": 85,
       "height": 14,
-      "hitEffect": "flakExplosion",
       "fragBullets": 7,
       "fragBullet": {
         "width": 8,
