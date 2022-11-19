@@ -19,11 +19,34 @@
     }
   },
   "ammoTypes": {
+      "compressed-scrap": {
+      "lifetime": 72,
+      "speed": 5,
+      "type": "BasicBulletType",
+      "ammoMultiplier": 4,
+      "reloadMultiplier": 1.2,
+      "shootEffect": "shootSmall",
+      "width": 6,
+      "damage": 13,
+      "height": 7,
+      "hitEffect": "flakExplosion",
+      "fragBullets": 3,
+      "fragBullet": {
+        "width": 2,
+        "height": 3,
+        "damgage": 4,
+        "shrinkY": 2,
+        "lifetime": 30,
+        "backColor": "4410EA",
+        "frontColor": "593AB8"
+      }
+    },
+
      "compressed-copper": {
       "lifetime": 72,
       "speed": 5,
       "type": "BasicBulletType",
-      "ammoMultiplier": 2,
+      "ammoMultiplier": 3,
       "reloadMultiplier": 1,
       "shootEffect": "shootSmall",
       "width": 7,
@@ -47,6 +70,7 @@
       "fragBullet": {
         "width": 7,
         "height": 9,
+        "damgage": 6,
         "shrinkY": 2,
         "lifetime": 30,
         "backColor": "4410EA",
@@ -77,7 +101,17 @@
       "width": 13,
       "damage": 85,
       "height": 14,
-      "hitEffect": "flakExplosion"
+      "hitEffect": "flakExplosion",
+      "fragBullets": 7,
+      "fragBullet": {
+        "width": 8,
+        "damage": 50,
+        "height": 11,
+        "shrinkY": 2,
+        "lifetime": 30,
+        "backColor": "4410EA",
+        "frontColor": "593AB8"
+      }
     }
   },
 
