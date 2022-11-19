@@ -1,0 +1,30 @@
+{
+    "name": "graphite transformer",
+    "type": "GenericCrafter",
+    "description": "mixes water, sand & graphite in large batches to make silicon",
+    "health": 90,
+    "size": 2,
+    "hasItems": true,
+    "hasliquids": true,
+    "itemcapacity": 45,
+    "craftTime": 70,
+    "buildCostMultiplier": 0.2,
+    "consumes": {
+        "power": 1.5,
+        "liquids": [
+            "water/0.1667"
+        ],
+        "items": [
+            "sand/5",
+            "graphite/10"
+        ]
+	},
+    "requirements": [
+        "compressed-lead/25",
+        "compressed-copper/30",
+        "graphite/45"
+    ],
+    "category": "crafting",
+    "research": "silicon-smelter",
+    "outputItem": "silicon/10"
+}

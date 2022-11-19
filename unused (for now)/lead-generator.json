@@ -6,7 +6,7 @@
   "hasPower": true,
   "hasItems": true,
   "acceptsItems": true,
-  "itemDuration": 150.0,
+  "itemDuration": 500.0,
   "consumes": {
     "items": {
       "items": [

@@ -12,8 +12,8 @@
     "consumes": {
         "power": 8,
         "liquids": [
-            "slag/0.8",
-            "water/0.8"
+            "slag/0.5",
+            "water/0.5"
         ]
 	},
     "requirements": [

@@ -1,0 +1,25 @@
+{	
+	"name": "unpulverizer",
+    "type": "GenericCrafter",
+    "description": "uses deez nuts to unpulverize sand",
+    "health": 50,
+	"size": 1,
+	"hasItems": true,
+	"itemCapacity": 5,	
+	"craftTime": 10,
+	"consumes": {
+		"power": 0.5,
+		"items": {
+			"items": [
+               "sand/2"
+			]
+		}
+	},
+	"requirements": [
+        "compressed-titanium/50",
+        "graphite/25"
+	],
+	"category": "crafting",
+	"research": "pulverizer",
+	"outputItem": "scrap/1"
+}

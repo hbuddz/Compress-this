@@ -1,0 +1,27 @@
+{	
+	"name": "thick melter",
+    "type": "GenericCrafter",
+    "description": "its a bigger melter",
+    "health": 50,
+	"size": 2,
+	"hasItems": true,
+	"itemCapacity": 40,	
+	"craftTime": 20,
+	"liquid": 80,
+	"consumes": {
+		"power": 0.5,
+		"items": {
+			"items": [
+               "scrap/3"
+			]
+		}
+	},
+	"requirements": [
+		"compressed-copper/60",
+        "compressed-lead/70",
+        "graphite/90"
+	],
+	"category": "crafting",
+	"research": "pulverizer",
+	"outputLiquid": "slag/0.8"
+}
