@@ -1,0 +1,25 @@
+{	
+	"name": "thick crusher",
+    "type": "GenericCrafter",
+    "description": "crushes copper into scrap",
+    "health": 75,
+	"size": 2,
+	"hasItems": true,
+	"itemCapacity": 15,	
+	"craftTime": 25,
+	"consumes": {
+		"power": 0.7,
+		"items": {
+			"items": [
+               "copper/2"
+			]
+		}
+	},
+	"requirements": [
+        "compressed-lead/50",
+        "compressed-copper/25"
+	],
+	"category": "crafting",
+	"research": "pulverizer",
+	"outputItem": "scrap/2"
+}
