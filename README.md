@@ -3,4 +3,4 @@
 COMPRESS THIS! is about compressing everything, and making it better!
 adds quite a few new blocks, even adds obsidian!
 still in deveolpment. copper as an image because this mod was orginally just compressed copper.
-hope you like it, if you have any ideas, join the discord (https://discord.gg/VvdXTgH5yN)
+hope you like it, if you have any ideas, join the discord (https://discord.gg/Rfr2s8bQd9)
