@@ -1,0 +1,49 @@
+{	
+	"name": "Alexanderium bio lab",
+    "type": "GenericCrafter",
+    "description": "Alexanderium bioengineering laboratory, it does what you think it does, it makes alexanderium, uses a lot of materials!",
+    "health": 100,
+	"size": 3,
+	"hasItems": true,
+	"itemCapacity": 75,	
+	"craftTime": 150,
+	"craftEffect": "smeltsmoke",
+	"updateEffect": "none",
+	"buildCostMultiplier": 0.2,
+	"consumes": {
+		"power": 8,
+		"liquids": {
+			"liquids": [
+				"cryofluid/0.2"
+			]
+		},
+
+		"items": {
+			"items": [
+				"compressed-phase/10",
+            	"compressed-thorium/10",
+				"compressed-titanium/10",
+				"compressed-lead/10",
+				"compressed-copper/10",
+				"spore-pod/15",
+				"obsidian/10"
+			]
+		}
+	},
+	"requirements": [
+        "surge-alloy/150",
+		"plastanium/135",
+		"phase-fabric/85",
+		"compressed-thorium/100",
+		"thorium/75",
+		"compressed-titanium/75",
+		"titanium/70",
+		"lopper/180",
+		"graphite/135",
+		"obsidian/250"
+
+	],
+	"category": "crafting",
+	"research": "obsidian-cooler",
+	"outputItem": "alexanderium/3"
+}
