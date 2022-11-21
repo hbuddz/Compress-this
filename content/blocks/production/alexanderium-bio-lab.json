@@ -3,7 +3,7 @@
     "type": "GenericCrafter",
     "description": "Alexanderium bioengineering laboratory, it does what you think it does, it makes alexanderium, uses a lot of materials!",
     "health": 100,
-	"size": 3,
+	"size": 5,
 	"hasItems": true,
 	"itemCapacity": 75,	
 	"craftTime": 150,

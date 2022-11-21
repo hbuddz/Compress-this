@@ -1,0 +1,18 @@
+{
+    "name": "large alexanderium wall",
+    "description": "a large alexanderium wall, super super strong",
+    "type": "wall",
+    "health": 40000,
+    "chanceDeflect": 1,
+    "lightningChance": 0.25,
+    "lightningLength": 30,
+    "lightningColor": "#19e6b9",
+    "lightningDamage": 55.0,
+    "buildCostMultiplier": 7.5,
+    "size": 2,
+    "requirements": [
+        "alexanderium/24"
+    ],
+    "category": "defense",
+    "research": "alexanderium-wall"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Alexanderium wall",
+    "description": "alexanderium wall, super super strong",
+    "type": "wall",
+    "health": 10000,
+    "chanceDeflect": 1,
+    "lightningChance": 0.50,
+    "lightningLength": 15,
+    "lightningColor": "#19e6b9",
+    "lightningDamage": 45.0,
+    "buildCostMultiplier": 7.5,
+    "size": 1,
+    "requirements": [
+        "alexanderium/6"
+    ],
+    "category": "defense",
+    "research": "large-obsidian-wall"
+}
