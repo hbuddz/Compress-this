@@ -3,7 +3,7 @@
     "description": "a large alexanderium wall, super super strong",
     "type": "wall",
     "health": 40000,
-    "chanceDeflect": 1,
+    "chanceDeflect": 50,
     "lightningChance": 0.25,
     "lightningLength": 30,
     "lightningColor": "#19e6b9",
