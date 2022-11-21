@@ -5,12 +5,12 @@
     "health": 200,
 	"size": 3,
 	"hasItems": true,
-	"itemCapacity": 10,	
+	"itemCapacity": 30,	
 	"craftTime": 50,
 	"craftEffect": "smeltsmoke",
 	"updateEffect": "none",
 	"consumes": {
-		"power": 1,
+		"power": 3.5,
 		"items": {
 			"items": [
                "thorium/2"

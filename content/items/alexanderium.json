@@ -1,0 +1,9 @@
+{
+    "name": "Alexanderium",
+    "description": "A living material made from all the compressed materials & spore pods. Extremely dangerous to other living creatures. Highly volitile.",
+    "explosiveness": 3,
+    "flammability": 3,
+    "charge": 0.7,
+    "radioactivity": 3,
+    "research": "obsidian"
+}
