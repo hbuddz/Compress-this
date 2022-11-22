@@ -1,6 +1,6 @@
 {
     "name": "infected",
-    "speedMultiplier": 0.20,
+    "speedMultiplier": 0.70,
     "damage": 0.5,
     "effectChance": 0.4,
     "applyColor": "4c7a2f",
