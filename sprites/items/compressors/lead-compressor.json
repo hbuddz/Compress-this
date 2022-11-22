@@ -1,0 +1,26 @@
+{	
+	"name": "lead compressor",
+    "type": "GenericCrafter",
+    "description": "compresses lead",
+    "health": 150,
+	"size": 2,
+	"hasItems": true,
+	"itemCapacity": 10,	
+	"craftTime": 30,
+	"craftEffect": "smeltsmoke",
+	"updateEffect": "none",
+	"consumes": {
+		"items": {
+			"items": [
+               "lead/2"
+			]
+		}
+	},
+	"requirements": [
+        "compressed-copper/100",
+        "lead/50"
+	],
+	"category": "crafting",
+	"research": "compressor",
+	"outputItem": "compressed-lead/1"
+}

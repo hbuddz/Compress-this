@@ -115,12 +115,25 @@
       "hitEffect": "flakExplosion"
     },
 
+    "compressed-plastanium": {
+      "lifetime": 30,
+      "speed": 12,
+      "type": "BasicBulletType",
+      "ammoMultiplier": 4,
+      "reloadMultiplier": 1.4,
+      "shootEffect": "shootSmall",
+      "width": 8,
+      "damage": 47,
+      "height": 10,
+      "hitEffect": "flakExplosion"
+    },
+
     "obsidian": {
       "lifetime": 18,
       "speed": 20,
       "type": "BasicBulletType",
       "ammoMultiplier": 2,
-      "reloadMultiplier": 3,
+      "reloadMultiplier": 1.9,
       "shootEffect": "shootSmall",
       "width": 13,
       "damage": 85,
@@ -129,6 +142,31 @@
       "fragBullet": {
         "width": 8,
         "damage": 50,
+        "height": 11,
+        "shrinkY": 2,
+        "lifetime": 30,
+        "backColor": "4410EA",
+        "frontColor": "593AB8"
+      }
+    },
+
+    "alexanderium": {
+      "lifetime": 18,
+      "speed": 20,
+      "type": "BasicBulletType",
+      "ammoMultiplier": 3,
+      "reloadMultiplier": 2,
+      "shootEffect": "shootSmall",
+      "width": 9,
+      "damage": 135,
+      "height": 11,
+      "homingDelay": 0,
+      "homingPower": 40,
+      "homingRange": 50,
+      "fragBullets": 9,
+      "fragBullet": {
+        "width": 8,
+        "damage": 75,
         "height": 11,
         "shrinkY": 2,
         "lifetime": 30,

@@ -1,0 +1,16 @@
+{
+  "type": "ItemBridge",
+  "name": "Better bridge",
+  "description": "A better, faster, and longer bridge conveyer",
+  "health": 150,
+  "requirements": [
+    "compressed-copper/5",
+    "compressed-lead/5",
+    "compressed-titanium/5"
+
+  ],
+  "range": 7,
+  "transportTime": 1,
+  "category": "distribution",
+  "research": "compressed-titanium-router"
+}

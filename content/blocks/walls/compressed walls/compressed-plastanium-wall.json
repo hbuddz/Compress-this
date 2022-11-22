@@ -1,0 +1,13 @@
+{
+    "name": "compressed plastanium wall",
+    "description": "A compressed plastanium wall",
+    "type": "Wall",
+    "health": 1040,
+    "size": 1,
+    "insulated": true,
+    "requirements": [
+        "compressed-plastanium/6"
+    ],
+    "category": "defense",
+    "research": "large-compressed-thorium-wall"
+}

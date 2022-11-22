@@ -1,0 +1,25 @@
+{	
+	"name": "scrap compressor",
+    "type": "GenericCrafter",
+    "description": "compresses scrap",
+    "health": 100,
+	"size": 1,
+	"hasItems": true,
+	"itemCapacity": 10,	
+	"craftTime": 20,
+	"craftEffect": "smeltsmoke",
+	"updateEffect": "none",
+	"consumes": {
+		"items": {
+			"items": [
+               "scrap/2"
+			]
+		}
+	},
+	"requirements": [
+        "compressed-copper/25"
+	],
+	"category": "crafting",
+	"research": "compressor",
+	"outputItem": "compressed-scrap/1"
+}

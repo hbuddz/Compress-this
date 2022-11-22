@@ -1,0 +1,14 @@
+{
+"name": "better powernode",
+"type": "PowerNode",
+"description": "a better powernode",
+"size": 1,
+"requirements": [
+    "compressed-copper/15",
+    "compressed-lead/10"
+],
+"laserRange": 10,
+"maxNodes": 15,
+"category": "power",
+"research": "power-node"
+}

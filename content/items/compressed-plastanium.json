@@ -1,0 +1,8 @@
+{
+    "name": "compressed plastanium",
+    "description": "compressed plastanium",
+    "explosiveness": 0.40,
+    "flammability": 0.20,
+    "charge": 0,
+    "research": "plastanium-compressor"
+}

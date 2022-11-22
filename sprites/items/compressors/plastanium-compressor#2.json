@@ -1,0 +1,31 @@
+{	
+	"name": "plastanium compressor (fr)",
+    "type": "GenericCrafter",
+    "description": "actually compresses plastanium!. dont be fooled by the first one!",
+    "health": 200,
+	"size": 3,
+	"hasItems": true,
+	"itemCapacity": 30,	
+	"craftTime": 70,
+	"craftEffect": "smeltsmoke",
+	"updateEffect": "none",
+	"consumes": {
+		"power": 5,
+		"items": {
+			"items": [
+               "plastanium/4"
+			]
+		}
+	},
+	"requirements": [
+		"compressed-titanium/200",
+		"plastanium/75",
+		"compressed-thorium/175",
+		"graphite/100",
+        "compressed-lead/75",
+		"compressed-copper/50"
+	],
+	"category": "crafting",
+	"research": "thorium-compressor",
+	"outputItem": "compressed-plastanium/2"
+}
