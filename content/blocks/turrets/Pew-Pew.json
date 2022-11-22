@@ -158,6 +158,8 @@
       "reloadMultiplier": 2,
       "shootEffect": "shootSmall",
       "width": 9,
+      "status": "alexanderium-effect",
+      "statusDuration": 500,
       "damage": 135,
       "height": 11,
       "homingDelay": 0,

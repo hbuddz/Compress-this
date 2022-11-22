@@ -2,5 +2,7 @@
     "name": "infected",
     "speedMultiplier": 0.20,
     "damage": 0.5,
-    "effectChance": 0.4
+    "effectChance": 0.4,
+    "applyColor": "4c7a2f",
+    "color": "3b5928"
 }
