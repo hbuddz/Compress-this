@@ -6,6 +6,7 @@
     "chanceDeflect": 50,
     "lightningChance": 0.25,
     "lightningLength": 30,
+    "insulated": true,
     "lightningColor": "#19e6b9",
     "lightningDamage": 55.0,
     "buildCostMultiplier": 7.5,

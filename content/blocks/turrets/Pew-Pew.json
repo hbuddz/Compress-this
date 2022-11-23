@@ -169,11 +169,15 @@
       "fragBullet": {
         "width": 8,
         "damage": 75,
+        "speed": 20,
         "height": 11,
         "shrinkY": 2,
-        "lifetime": 30,
-        "backColor": "4410EA",
-        "frontColor": "593AB8"
+        "lifetime": 1,
+        "backColor": "34783a",
+        "frontColor": "783472",
+        "homingDelay": 0,
+        "homingPower": 40,
+        "homingRange": 50
       }
     }
   },

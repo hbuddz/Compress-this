@@ -13,7 +13,7 @@
 		"power": 3.5,
 		"items": {
 			"items": [
-               "thorium/2"
+               "thorium/4"
 			]
 		}
 	},
@@ -25,5 +25,5 @@
 	],
 	"category": "crafting",
 	"research": "titanium-compressor",
-	"outputItem": "compressed-thorium/1"
+	"outputItem": "compressed-thorium/2"
 }
