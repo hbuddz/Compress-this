@@ -1,0 +1,34 @@
+{	
+	"name": "water contaminator",
+    "type": "GenericCrafter",
+    "description": "infects water with alexanderium, that water can then super cool turrets, and it can now fully control the heat, movement, and speed of things",
+    "health": 100,
+	"size": 3,
+	"hasItems": true,
+	"itemCapacity": 10,	
+	"craftTime": 30,
+	"buildCostMultiplier": 0.2,
+	"consumes": {
+		"power": 2,
+		"liquids": {
+			"liquids": [
+				"water/0.15"
+			]
+		},
+
+		"items": {
+			"items": [
+				"alexanderium/1"
+			]
+		}
+	},
+	"requirements": [
+        "compressed-titanium/150",
+		"obsidian/150",
+		"graphite/75",
+		"compressed-thorium/35"
+	],
+	"category": "crafting",
+	"research": "alexanderium-bio-lab",
+	"outputLiquid": "infected-water/0.2"
+}

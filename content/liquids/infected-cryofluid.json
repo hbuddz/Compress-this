@@ -1,0 +1,13 @@
+{
+    "name": "infected cryofluid",
+    "temperature": -10,
+    "flammability": 0,
+    "viscosity": 0.2,
+    "lightColor": "E2F5FBFF",
+    "heatCapacity": 1.3,
+    "explosiveness": 0,
+    "effect": "freezing",
+    "color": "E2F5FBFF",
+    "research": "cryofluid"
+}
+    

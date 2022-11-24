@@ -1,0 +1,13 @@
+{
+    "name": "infected water",
+    "temperature": -5,
+    "flammability": 0,
+    "viscosity": 0.1,
+    "lightColor": "E2F5FBFF",
+    "heatCapacity": 1.0,
+    "explosiveness": 0,
+    "effect": "freezing",
+    "color": "E2F5FBFF",
+    "research": "water"
+}
+    

@@ -1,0 +1,13 @@
+{
+    "type": "Conveyor",
+    "name": "living conveyor",
+    "description": "an alexanderium conveyor, insanely fast & durable",
+    "category": "distribution",
+    "health": 300,
+    "speed": 0.64,
+    "displayedSpeed": 88,
+    "requirements": [
+        "alexanderium/1"
+    ],
+    "research": "alexanderium-bio-lab"
+}

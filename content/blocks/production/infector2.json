@@ -1,0 +1,35 @@
+{	
+	"name": "cryofluid contaminator",
+    "type": "GenericCrafter",
+    "description": "infects cryofluid with alexanderium, that cryofluid can then super cool turrets, and it can now fully control the heat, movement, and speed of things",
+    "health": 100,
+	"size": 3,
+	"hasItems": true,
+	"itemCapacity": 10,	
+	"craftTime": 30,
+	"buildCostMultiplier": 0.2,
+	"consumes": {
+		"power": 2,
+		"liquids": {
+			"liquids": [
+				"cryofluid/0.15"
+			]
+		},
+
+		"items": {
+			"items": [
+				"alexanderium/1"
+			]
+		}
+	},
+	"requirements": [
+        "compressed-titanium/150",
+		"compressed-thorium/85",
+		"obsidian/150",
+		"graphite/75",
+		"compressed-thorium/35"
+	],
+	"category": "crafting",
+	"research": "alexanderium-bio-lab",
+	"outputLiquid": "infected-water/0.2"
+}
