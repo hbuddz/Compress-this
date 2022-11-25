@@ -1,0 +1,27 @@
+{
+  "name": "titanium drill",
+  "description": "A drill made ot of titanium, that can mine thorium without power",
+  "type": "Drill",
+  "health": 120,
+  "size": 2,
+  "liquidCapacity": 250,
+  "itemCapacity": 100,
+  "buildCostMultiplier": 0.35,
+  "tier": 4,
+  "drillTime": 300,
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.07,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [
+      "compressed-titanium/25",
+      "graphite/40",
+      "compressed-copper/20"
+  ],
+  "category": "production",
+  "research": "pneumatic-drill"
+}

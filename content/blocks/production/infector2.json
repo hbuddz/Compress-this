@@ -31,5 +31,5 @@
 	],
 	"category": "crafting",
 	"research": "alexanderium-bio-lab",
-	"outputLiquid": "infected-water/0.2"
+	"outputLiquid": "infected-cryofluid/0.2"
 }
