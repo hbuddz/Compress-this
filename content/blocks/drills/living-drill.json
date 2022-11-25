@@ -1,0 +1,30 @@
+{
+  "name": "alexanderium drill",
+  "description": "A really really powerful drill",
+  "type": "Drill",
+  "health": 550,
+  "size": 5,
+  "liquidCapacity": 250,
+  "itemCapacity": 100,
+  "buildCostMultiplier": 0.35,
+  "tier": 12,
+  "drillTime": 20,
+  "consumes": {
+    "liquid": {
+      "liquid": "oil",
+      "amount": 0.2,
+      "optional": true,
+      "booster": true
+    }
+  },
+  "requirements": [
+      "alexanderium/55",
+      "obsidian/60",
+      "graphite/65",
+      "compressed-titanium/70",
+      "compressed-thorium/60",
+      "compressed-plastanium/70"
+  ],
+  "category": "production",
+  "research": "obsidian"
+}
