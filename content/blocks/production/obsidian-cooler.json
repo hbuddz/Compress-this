@@ -6,7 +6,7 @@
     "size": 3,
     "hasItems": true,
     "hasliquids": true,
-    "itemcapacity": 20,
+    "itemCapacity": 20,
     "craftTime": 200,
     "buildCostMultiplier": 0.2,
     "consumes": {

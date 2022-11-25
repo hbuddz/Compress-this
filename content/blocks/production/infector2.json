@@ -5,7 +5,7 @@
     "health": 100,
 	"size": 3,
 	"hasItems": true,
-	"itemCapacity": 10,	
+	"itemCapacity": 10,
 	"craftTime": 30,
 	"buildCostMultiplier": 0.2,
 	"consumes": {

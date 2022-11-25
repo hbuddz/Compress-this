@@ -1,0 +1,34 @@
+{
+  "type": "ConsumeGenerator",
+  "name": "Reaction chamber",
+  "description": "soaks obsidian in oil and then zaps it causing it to eplode with a lot of force & releasing shit tonns of energy!",
+  "size": 5,
+  "health": 300,
+  "hasPower": true,
+  "hasItems": true,
+  "acceptsItems": true,
+  "itemDuration": 450,
+  "liquidDuration": 450,
+  "itemCapacity": 18,
+  "liquidCapacity": 18,
+  "consumes":{
+    "liquid": "oil/0.01",
+    "items": {
+      "items": [
+        {
+          "item": "obsidian",
+          "amount": 3
+        }
+      ]
+    }
+  },
+  "powerProduction": 50,
+  "requirements": [
+    "compressed-titanium/50",
+    "compressed-thorium/60",
+    "compressed-lead/40",
+    "compressed-copper/45"
+  ],
+  "category": "power",
+  "research": "lead-generator"
+}

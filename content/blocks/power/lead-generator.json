@@ -3,6 +3,7 @@
   "name": "Compressed lead generator",
   "description": "uses the high dencity lead (compressed lead) to generate power",
   "size": 2,
+  "health": 120,
   "hasPower": true,
   "hasItems": true,
   "acceptsItems": true,
@@ -24,5 +25,5 @@
     "compressed-copper/45"
   ],
   "category": "power",
-  "research": "titanium-compressor"
+  "research": "better-node"
 }
