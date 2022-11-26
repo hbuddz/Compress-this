@@ -1,0 +1,29 @@
+{
+  "type": "Reconstructor",
+  "name": "Living Refabricator",
+  "description": "Refabricates monos to make them more powerful",
+  "constructTime": 1200,
+  "size": 3,
+  "envDisabled": 0,
+  "consumes": {
+    "power": 1.7,
+    "items": {
+      "items": [
+        "compressed-copper/25",
+        "obsidian/40",
+        "alexanderium/5",
+        "compressed-titanium/25"
+      ]
+    }
+  },
+  "upgrades": [
+    ["mono", "living-mono"]
+  ],
+  "requirements": [
+    "obsidian/250",
+    "compressed-thorium/200",
+    "graphite/75",
+    "alexanderium/50"
+],
+  "category": "units"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "living mono",
+    "type": "flying",
+    "health": 280,
+    "controller": "MinerAI",
+    "defaultController": "MinerAI",
+    "isEnemy": false,
+    "mineWalls": true,
+    "mineFloor": true,
+    "flying": true,
+    "accel": 0.12,
+    "drag": 0.06,
+    "mineSpeed": 2.5,
+    "mineTier": 6,
+    "speed": 1.5,
+    "rotateSpeed": 1.9,
+    "range": 50,
+    "armor": 2,
+    "size": 0.9,
+    "itemCapacity": 30
+}
