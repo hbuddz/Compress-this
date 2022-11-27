@@ -1,0 +1,9 @@
+{
+    "name": "budzirium",
+    "description": "A dark, mysterious, unknown material pulled from the vast depths of space",
+    "explosiveness": 10,
+    "flammability": 10,
+    "charge": 7,
+    "radioactivity": 66,
+    "research": "living-drill"
+}

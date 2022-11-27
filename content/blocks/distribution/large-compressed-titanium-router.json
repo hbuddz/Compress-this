@@ -5,7 +5,7 @@
     "health": 150,
     "hasitems": true,
     "speed": 90,
-    "itemcapacity": 3,
+    "itemCapacity": 3,
     "requirements": [
         "compressed-copper/9",
         "compressed-titanium/18"

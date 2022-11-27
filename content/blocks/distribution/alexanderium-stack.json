@@ -1,0 +1,15 @@
+{
+    "type": "StackConveyor",
+    "name": "living stack conveyor",
+    "description": "an alexanderium stack conveyor, made with with alexanderium & compressed plastanium",
+    "category": "distribution",
+    "health": 325,
+    "speed": 0.64,
+    "itemCapacity": 50,
+    "displayedSpeed": 88,
+    "requirements": [
+        "alexanderium/1",
+        "compressed-plastanium/1"
+    ],
+    "research": "alexanderium-conveyer"
+}

@@ -1,7 +1,7 @@
 {
   "type": "ConsumeGenerator",
   "name": "Reaction chamber",
-  "description": "soaks obsidian in oil and then zaps it causing it to eplode with a lot of force & releasing shit tonns of energy!",
+  "description": "soaks obsidian in oil and then zaps it causing it to explode with a lot of force & releasing shit tonns of energy!",
   "size": 5,
   "health": 300,
   "hasPower": true,

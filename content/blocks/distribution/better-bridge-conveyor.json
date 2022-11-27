@@ -3,7 +3,8 @@
   "name": "Better bridge",
   "description": "A better, faster, and longer bridge conveyer",
   "health": 150,
-  "hasItems": false,
+  "hasItems": true,
+  "hasPower": false,
   "requirements": [
     "compressed-copper/5",
     "compressed-lead/5",

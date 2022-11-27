@@ -4,6 +4,7 @@
   "description": "A better, faster, and longer liquid bridge",
   "health": 150,
   "hasItems": false,
+  "hasPower": false,
   "requirements": [
     "compressed-copper/5",
     "compressed-lead/5",

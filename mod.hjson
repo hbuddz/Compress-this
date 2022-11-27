@@ -5,7 +5,7 @@
 
     author: 
     '''
-    Coding - [red]hbuddz
+    Coding - hbuddz
     Sprites - hbuddz & his twot of a brother
     '''
 
@@ -25,5 +25,5 @@
     subtitle: "Wanna compress stuff?!"
     minGameVersion : 140.0
     hidden : false
-    version : "1.7.4"
+    version : "1.7.6"
 }
