@@ -7,7 +7,7 @@
     "drag": 0.0625,
     "mineSpeed": 20,
     "mineTier": 6,
-    "health": 410,
+    "health": 900,
     "itemCapacity": 220,
     "rotateSpeed": 3,
     "hitSize": 18,
