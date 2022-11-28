@@ -1,0 +1,23 @@
+{
+    "type": "CoreBlock",
+    "name": "Core: Obsidian",
+    "description": "obsidian core, 3rd core upgrade. modified Nexus core code/sprites from z0mbiesrock's Larger-Cores mod",
+    "size": 6,
+    "health": 8500,
+    "itemCapacity": 18000,
+    "requirements": [
+        "obsidian/10000",
+        "compressed-thorium/8000",
+        "compressed-titanium/7000",
+        "silicon/8000",
+        "compressed-copper/9000",
+        "compressed-lead/9000",
+        "compressed-phase/5000",
+        "compressed-plastanium/4000",
+        "graphite/5000"
+    ],
+    "category": "effect",
+    "unitCapModifier": 25,
+    "research": "core-nucleus",
+    "unitType": "obsidian-delta"
+}

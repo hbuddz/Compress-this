@@ -1,18 +1,18 @@
 {
-    "name": "graphite transformer",
+    "name": "silicon press",
     "type": "GenericCrafter",
     "description": "mixes water, sand & graphite in large batches to make silicon",
     "health": 90,
     "size": 2,
     "hasItems": true,
     "hasliquids": true,
-    "itemcapacity": 45,
-    "craftTime": 70,
+    "itemCapacity": 30,
+    "craftTime": 45,
     "buildCostMultiplier": 0.2,
     "consumes": {
         "power": 1.5,
         "liquids": [
-            "water/0.1667"
+            "water/0.1"
         ],
         "items": [
             "sand/5",
@@ -26,5 +26,5 @@
     ],
     "category": "crafting",
     "research": "silicon-smelter",
-    "outputItem": "silicon/10"
+    "outputItem": "silicon/15"
 }

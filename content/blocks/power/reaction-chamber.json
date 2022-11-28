@@ -1,5 +1,5 @@
 {
-  "type": "ConsumeGenerator",
+  "type": "NuclearReactor",
   "name": "Reaction chamber",
   "description": "soaks obsidian in oil and then zaps it causing it to explode with a lot of force & releasing shit tonns of energy!",
   "size": 5,
@@ -8,9 +8,12 @@
   "hasItems": true,
   "acceptsItems": true,
   "itemDuration": 450,
+  "coolantPower": 0.5,
   "liquidDuration": 450,
   "itemCapacity": 18,
   "liquidCapacity": 18,
+  "fuelItem": "obsidian",
+  "heating": 0.001,
   "consumes":{
     "liquid": "oil/0.01",
     "items": {

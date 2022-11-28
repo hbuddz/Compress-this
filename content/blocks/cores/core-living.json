@@ -1,0 +1,27 @@
+{
+    "type": "CoreBlock",
+    "name": "Core: Living",
+    "description": "livning core, 4th core upgrade. modified Network core code/sprites from z0mbiesrock's Larger-Cores mod",
+    "details": "Living core",
+    "size": 7,
+    "health": 35000,
+    "itemCapacity": 28000,
+    "requirements": [
+        "compressed-copper/22000",
+        "compressed-lead/22000",
+        "metaglass/10000",
+        "graphite/10000",
+        "compressed-titanium/22000",
+        "compressed-plastanium/10000",
+        "silicon/22000",
+        "compressed-thorium/22000",
+        "compressed-phase/10000",
+        "surge-alloy/22000",
+        "obsidian/20000",
+        "alexanderium/24000"
+    ],
+    "category": "effect",
+    "research": "core-obsidian",
+    "unitType": "living-epsilon",
+    "unitCapModifier": 30
+}
