@@ -67,7 +67,7 @@
             }
         },
         {
-           "name": "small-weapon-core",
+            "name": "small-weapon-core",
             "reload": 20.1,
             "x": -5,
             "y": -2,
