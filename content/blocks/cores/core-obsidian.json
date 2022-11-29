@@ -3,7 +3,7 @@
     "name": "Core: Obsidian",
     "description": "obsidian core, 3rd core upgrade. modified Nexus core code/sprites from z0mbiesrock's Larger-Cores mod",
     "size": 6,
-    "health": 8500,
+    "health": 12500,
     "itemCapacity": 18000,
     "requirements": [
         "obsidian/10000",
