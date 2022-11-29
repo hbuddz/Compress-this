@@ -12,6 +12,8 @@
   "liquidDuration": 450,
   "itemCapacity": 18,
   "liquidCapacity": 18,
+  "explosionRadius": 25,
+  "rebuildable": true,
   "fuelItem": "obsidian",
   "heating": 0.001,
   "consumes":{
