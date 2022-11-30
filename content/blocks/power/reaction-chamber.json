@@ -12,10 +12,16 @@
   "liquidDuration": 450,
   "itemCapacity": 18,
   "liquidCapacity": 18,
-  "explosionRadius": 25,
+  "explosionRadius": 30,
   "rebuildable": true,
   "fuelItem": "obsidian",
-  "heating": 0.001,
+  "explodeEffect": [
+    "impactReactorExplosion",
+    "bigShockwave",
+    "reactorExplosion",
+    "lightning"
+  ],
+  "heating": 0.003,
   "consumes":{
     "liquid": "oil/0.01",
     "items": {
@@ -27,7 +33,7 @@
       ]
     }
   },
-  "powerProduction": 50,
+  "powerProduction": 150,
   "requirements": [
     "compressed-titanium/50",
     "compressed-thorium/60",
