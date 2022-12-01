@@ -10,7 +10,5 @@
         "obsidian/2",
         "compressed-titanium/1"
     ],
-    "research": [
-        "obsidian"
-    ]
+    "research": "obsidian"
 }

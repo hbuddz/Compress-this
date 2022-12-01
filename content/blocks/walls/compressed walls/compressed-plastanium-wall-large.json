@@ -4,7 +4,7 @@
     "type": "Wall",
     "health": 4160,
     "size": 2,
-    "insulated": true,
+    "absorbLasers": true,
     "requirements": [
         "compressed-plastanium/6"
     ],

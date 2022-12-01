@@ -8,13 +8,12 @@
     "mineSpeed": 20,
     "mineTier": 6,
     "health": 1800,
+    "alwaysUnlocked": true,
     "itemCapacity": 220,
     "rotateSpeed": 3,
     "hitSize": 18,
-    "isCounted": false,
     "armor": 7,
     "buildSpeed": 4.5,
-    "rotateShooting": true,
     "engineOffset": 8,
     "flying": true,
     "weapons": [
@@ -26,12 +25,15 @@
             "shootY": 3,
             "top": false,
             "rotate": true,
-            "shots": 2,
             "inaccuracy": 2,
             "ejectEffect": "none",
             "shootSound": "missile",
             "recoil": 3,
             "rotateSpeed": 8,
+            "shoot": {
+                "shots": 3,
+                "shotDelay": 3
+            },
             "bullet": {
                 "type": "MissileBulletType",
                 "damage": 40,
@@ -53,7 +55,6 @@
                 "despawnEffect": "blastExplosion",
                 "shootEffect": "shootBig",
                 "smokeEffect": "shootSmallSmoke",
-                "tileDamageMultiplier": 0.1,
                 "lifetime": 70,
                 "status": "blasted",
                 "statusDuration": 40
@@ -67,7 +68,10 @@
             "shootY": 3,
             "top": false,
             "rotate": true,
-            "shots": 1,
+            "shoot": {
+                "shots": 3,
+                "shotDelay": 3
+            },
             "inaccuracy": 2,
             "ejectEffect": "none",
             "shootSound": "missile",
@@ -94,7 +98,6 @@
                 "despawnEffect": "blastExplosion",
                 "shootEffect": "shootBig",
                 "smokeEffect": "shootSmallSmoke",
-                "tileDamageMultiplier": 0.1,
                 "lifetime": 70,
                 "status": "blasted",
                 "statusDuration": 40

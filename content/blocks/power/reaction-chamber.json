@@ -9,7 +9,6 @@
   "acceptsItems": true,
   "itemDuration": 450,
   "coolantPower": 0.5,
-  "liquidDuration": 450,
   "itemCapacity": 18,
   "liquidCapacity": 18,
   "explosionRadius": 30,

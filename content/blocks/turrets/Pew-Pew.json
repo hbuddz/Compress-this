@@ -7,10 +7,10 @@
   "size": 3,
   "targetAir": true,
   "targetGround": true,
-  "rotatespeed": 12,
+  "rotateSpeed": 12,
   "inaccuracy": 0,
   "xRand": 0,
-  "recoilAmount": 0,
+  "recoil": 0,
   "shootSound": "shoot",
   "buildCostMultiplier": 0.2,
   "consumes": {

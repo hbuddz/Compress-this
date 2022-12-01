@@ -6,10 +6,9 @@
     "health": 325,
     "speed": 0.64,
     "itemCapacity": 50,
-    "displayedSpeed": 88,
     "requirements": [
         "alexanderium/1",
         "compressed-plastanium/1"
     ],
-    "research": "alexanderium-conveyer"
+    "research": "alexanderium-conveyor"
 }

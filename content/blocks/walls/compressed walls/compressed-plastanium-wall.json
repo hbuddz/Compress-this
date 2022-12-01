@@ -5,6 +5,7 @@
     "health": 1040,
     "size": 1,
     "insulated": true,
+    "absorbLasers": true,
     "requirements": [
         "compressed-plastanium/6"
     ],

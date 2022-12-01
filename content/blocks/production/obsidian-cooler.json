@@ -5,7 +5,7 @@
     "health": 140,
     "size": 3,
     "hasItems": true,
-    "hasliquids": true,
+    "hasLiquids": true,
     "itemCapacity": 20,
     "craftTime": 200,
     "buildCostMultiplier": 0.2,
@@ -22,7 +22,8 @@
         "compressed-lead/50",
         "compressed-copper/75",
         "graphite/95",
-        "silicon/100"
+        "silicon/100",
+        "lopper/50"
     ],
     "category": "crafting",
     "research": "thorium-compressor",

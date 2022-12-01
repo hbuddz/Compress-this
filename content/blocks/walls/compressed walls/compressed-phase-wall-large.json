@@ -3,7 +3,7 @@
     "description": "A large compressed phase fabric wall",
     "type": "Wall",
     "health": 4800,
-    "chanceDeflect": 100,
+    "chanceDeflect": 75,
     "size": 2,
     "requirements": [
         "compressed-phase/24"

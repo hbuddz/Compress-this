@@ -3,7 +3,7 @@
     "type": "router",
     "size": 3,
     "health": 150,
-    "hasitems": true,
+    "hasItems": true,
     "speed": 90,
     "itemCapacity": 3,
     "requirements": [

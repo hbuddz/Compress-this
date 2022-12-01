@@ -5,7 +5,7 @@
     "health": 90,
     "size": 2,
     "hasItems": true,
-    "hasliquids": true,
+    "hasLiquids": true,
     "itemCapacity": 30,
     "craftTime": 45,
     "buildCostMultiplier": 0.2,
@@ -22,7 +22,8 @@
     "requirements": [
         "compressed-lead/25",
         "compressed-copper/30",
-        "graphite/45"
+        "graphite/45",
+        "lopper/20"
     ],
     "category": "crafting",
     "research": "silicon-smelter",

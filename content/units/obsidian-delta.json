@@ -8,13 +8,12 @@
     "mineSpeed": 9,
     "mineTier": 4,
     "health": 1200,
+    "alwaysUnlocked": true,
     "itemCapacity": 120,
     "rotateSpeed": 25,
-    "hitsize": 13,
-    "isCounted": false,
+    "hitSize": 13,
     "armor": 3,
     "buildSpeed": 2,
-    "rotateShooting": true,
     "engineOffset": 8.5,
     "flying": true,
     "weapons": [
@@ -25,7 +24,10 @@
             "y": 2,
             "top": false,
             "rotate": false,
-            "shots": 7,
+            "shoot": {
+                "shots": 4,
+                "shotDelay": 3
+            },
             "inaccuracy": 5,
             "velocityRnd": 0.25,
             "shootY": 3,
@@ -39,7 +41,6 @@
                 "height": 14,
                 "shootEffect": "shootSmall",
                 "smokeEffect": "shootSmallSmoke",
-                "tileDamageMultiplier": 0.07,
                 "lifetime": 40,
                 "sprite": "bullet"
             }
@@ -52,7 +53,10 @@
             "top": false,
             "rotate": true,
             "rotateSpeed": 18,
-            "shots": 2,
+            "shoot": {
+                "shots": 3,
+                "shotDelay": 3
+            },
             "inaccuracy": 1,
             "ejectEffect": "casing1",
             "bullet": {
@@ -61,7 +65,6 @@
                 "speed": 8,
                 "width": 4,
                 "height": 9,
-                "tileDamageMultiplier": 0.03,
                 "lifetime": 20,
                 "sprite": "bullet"
             }
@@ -74,7 +77,10 @@
             "top": false,
             "rotate": true,
             "rotateSpeed": 18,
-            "shots": 2,
+            "shoot": {
+                "shots": 3,
+                "shotDelay": 3
+            },
             "inaccuracy": 1,
             "ejectEffect": "casing1",
             "bullet": {
@@ -83,7 +89,6 @@
                 "speed": 8,
                 "width": 4,
                 "height": 9,
-                "tileDamageMultiplier": 0.03,
                 "lifetime": 20,
                 "sprite": "bullet"
             }

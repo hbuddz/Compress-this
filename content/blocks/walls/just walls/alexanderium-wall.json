@@ -7,6 +7,7 @@
     "lightningChance": 0.50,
     "lightningLength": 15,
     "insulated": true,
+    "absorbLasers": true,
     "lightningColor": "#19e6b9",
     "lightningDamage": 45.0,
     "buildCostMultiplier": 7.5,
