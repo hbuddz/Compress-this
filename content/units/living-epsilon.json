@@ -16,6 +16,7 @@
     "buildSpeed": 4.5,
     "engineOffset": 8,
     "flying": true,
+    "faceTarget": false,
     "weapons": [
         {
             "name": "missiles-core",
