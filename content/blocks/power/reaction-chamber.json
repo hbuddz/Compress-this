@@ -40,5 +40,26 @@
     "compressed-copper/45"
   ],
   "category": "power",
-  "research": "lead-generator"
+  "research": "lead-generator",
+
+  "drawer": {
+		"type": "DrawMulti",
+		"drawers": [
+		  {
+			"type": "DrawDefault"
+		  },
+		  {
+			"type": "DrawRegion",
+			"suffix": "-spin",
+			"rotateSpeed": 5,
+			"spinSprite": true
+		  },
+      {
+        "type": "DrawRegion",
+        "suffix": "-lights",
+        "rotateSpeed": -1,
+        "spinSprite": true
+      }
+		]
+	}
 }

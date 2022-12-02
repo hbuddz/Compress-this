@@ -1,6 +1,6 @@
 {
     "type": "StackConveyor",
-    "name": "living stack conveyor",
+    "name": "[#28C76D]living stack conveyor",
     "description": "an alexanderium stack conveyor, made with with alexanderium & compressed plastanium",
     "category": "distribution",
     "health": 325,

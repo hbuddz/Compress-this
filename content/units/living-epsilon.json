@@ -1,6 +1,6 @@
 {
     "type": "flying",
-    "name": "Living Epsilon",
+    "name": "[#28C76D]Living Epsilon",
     "description": "Defends the living core from enemies. Builds structures. modified Epsilon unit code/sprites from z0mbiesrock's Larger-Cores mod",
     "speed": 6.5,
     "accel": 0.125,

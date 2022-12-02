@@ -6,10 +6,12 @@
     "buildCostMultiplier": 0,
     "hasPower": false,
     "phaseRangeBoost": 0,
+    "phaseBoost": 0,
+    "baseColor": "#004cff",
     "hasItems": false,
     "healPercent": 5,
     "range": 55,
-    "reload": 75,
+    "reload": 25,
     "size": 2,
     "requirements": [
         "budzirium/8",

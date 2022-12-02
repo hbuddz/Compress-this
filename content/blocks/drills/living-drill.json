@@ -1,5 +1,5 @@
 {
-  "name": "alexanderium drill",
+  "name": "[#28C76D]living drill",
   "description": "A really really powerful drill",
   "type": "Drill",
   "health": 550,
@@ -26,5 +26,5 @@
       "compressed-plastanium/70"
   ],
   "category": "production",
-  "research": "obsidian"
+  "research": "alexanderium-bio-lab"
 }

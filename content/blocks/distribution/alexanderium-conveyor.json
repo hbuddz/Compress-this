@@ -1,6 +1,6 @@
 {
     "type": "Conveyor",
-    "name": "living conveyor",
+    "name": "[#28C76D]living conveyor",
     "description": "an alexanderium conveyor, insanely fast & durable",
     "category": "distribution",
     "health": 300,

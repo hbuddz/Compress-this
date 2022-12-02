@@ -1,6 +1,6 @@
 {
   "type": "Reconstructor",
-  "name": "Living Refabricator",
+  "name": "[#28C76D]Living Refabricator",
   "description": "Refabricates monos to make them more powerful",
   "constructTime": 1200,
   "size": 3,
@@ -26,5 +26,5 @@
     "alexanderium/50"
 ],
   "category": "units",
-  "research": "mono"
+  "research": "air-factory"
 }

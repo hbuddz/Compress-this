@@ -1,10 +1,11 @@
 {
-    "name": "obsidian vault",
+    "name": "[#65088A]obsidian vault",
     "type": "StorageBlock",
     "itemCapacity": 3000,
     "size": 4,
     "category": "effect",
     "health": 300,
+    "research": "vault",
     "requirements": [
         "compressed-titanium/250",
         "compressed-thorium/200",

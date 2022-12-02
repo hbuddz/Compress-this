@@ -1,10 +1,10 @@
 {
     "type": "CoreBlock",
-    "name": "Core: Living",
+    "name": "Core: [#28C76D]Living",
     "description": "livning core, 4th core upgrade. modified Network core code/sprites from z0mbiesrock's Larger-Cores mod",
     "details": "Living core",
     "size": 7,
-    "health": 35000,
+    "health": 55000,
     "itemCapacity": 28000,
     "requirements": [
         "compressed-copper/22000",

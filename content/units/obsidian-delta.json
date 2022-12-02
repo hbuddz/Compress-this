@@ -1,6 +1,6 @@
 {
     "type": "flying",
-    "name": "Obsidian Delta",
+    "name": "[#65088A]Obsidian Delta",
     "description": "Defends the obsidian core from enemies. Builds structures. modified Delta unit code/sprites from z0mbiesrock's Larger-Cores mod",
     "speed": 4,
     "accel": 0.125,
