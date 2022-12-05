@@ -1,0 +1,31 @@
+{
+    "type": "OverdriveProjector",
+    "name": "over over driver",
+    "health": 250,
+    "range": 150,
+    "phaseRangeBoost": 50,
+    "size": 2,
+    "category": "effect",
+    "speedBoost": 2.6,
+    "hasPower": false,
+    "speedBoostPhase": 6.4,
+    "baseColor": "#c242f5",
+    "phaseColor": "#1b46b3",
+    "useTime": 47000,
+    "itemCapacity": 1,
+    "requirements": [
+        "compressed-thorium/50",
+        "compressed-titanium/40",
+        "lopper/35",
+        "graphite/35"
+    ],
+    "consumes": {
+        "items": {
+            "items": [
+                "budzirium/1"
+            ],
+            "booster": true,
+            "optional": true
+        }
+    }
+}
