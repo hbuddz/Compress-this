@@ -1,0 +1,33 @@
+{
+    "name": "Mass collider",
+    "type": "GenericCrafter",
+    "description": "Smashes Budzirium and Alexanderium together to make Budzanderium",
+    "health": 500,
+    "size": 7,
+    "hasItems": true,
+    "itemCapacity": 25,
+	"craftTime": 300,
+    "buildCostMultiplier": 2,
+    "consumes": {
+		"power": 7,
+		"items": {
+			"items": [
+                "budzirium/1",
+                "alexanderium/2"
+			]
+		},
+        "liquids": {
+            "liquids": [
+              {
+                "liquid": "infected-cryofluid",
+                "amount": 0.5
+              }
+            ]
+          }
+	},
+    "requirements": [
+		"copper/1"
+	],
+    "outputItem": "budzanderium/2",
+	"category": "crafting" 
+}

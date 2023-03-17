@@ -1,0 +1,15 @@
+{
+    "name": "Alexanderium vault",
+    "type": "StorageBlock",
+    "itemCapacity": 7000,
+    "size": 5,
+    "category": "effect",
+    "health": 300,
+    "research": "vault",
+    "requirements": [
+        "alexanderium/150",
+        "compressed-titanium/250",
+        "compressed-thorium/200",
+        "obsidian/300"
+    ]
+}

@@ -1,6 +1,6 @@
 {
   "type": "ConsumeGenerator",
-  "name": "Compressed lead generator",
+  "name": "Lead generator",
   "description": "uses the high dencity lead (compressed lead) to generate power",
   "size": 2,
   "health": 120,

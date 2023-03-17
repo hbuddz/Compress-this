@@ -1,0 +1,38 @@
+{	
+	"name": "Coal drill",
+    "type": "GenericCrafter",
+    "description": "drills coal",
+    "health": 100,
+	"size": 2,
+	"hasItems": true,
+	"itemCapacity": 10,	
+	"craftTime": 200,
+	"consumes": {
+	},
+	"requirements": [
+        "copper/50",
+        "lead/25"
+	],
+	"category": "production",
+	"research": "mechanical-drill",
+	"outputItem": "coal/1",
+    "drawer": {
+		"type": "DrawMulti",
+		"drawers": [
+        {
+                "type": "DrawDefault"
+        },
+		{
+			"type": "DrawRegion",
+			"suffix": "-rotator",
+			"rotateSpeed": 0.6,
+			"spinSprite": true
+		},
+        {
+			"type": "DrawRegion",
+			"suffix": "-top",
+			"spinSprite": false
+		}
+       ]
+	  }
+}

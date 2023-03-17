@@ -1,0 +1,38 @@
+{
+  "type": "ConsumeGenerator",
+  "name": "Large steam generator",
+  "description": "A better steam generator",
+  "size": 3,
+  "health": 120,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": true,
+  "acceptsItems": true,
+  "itemDuration": 135.0,
+  "consumes": {
+    "liquids": {
+      "liquids": [
+        {
+          "liquid": "water",
+          "amount": 0.2       
+        }
+      ]
+    },
+    "items": {
+      "items": [
+        {
+          "item": "coal",
+          "amount": 2
+        }
+      ]
+    }
+  },
+  "powerProduction": 12,
+  "requirements": [
+    "compressed-titanium/50",
+    "compressed-lead/40",
+    "compressed-copper/45"
+  ],
+  "category": "power",
+  "research": "lead-generator"  
+}

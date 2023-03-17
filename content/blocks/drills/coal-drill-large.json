@@ -1,0 +1,40 @@
+{	
+	"name": "Large Coal drill",
+    "type": "GenericCrafter",
+    "description": "drills coal",
+    "health": 175,
+	"size": 3,
+	"hasItems": true,
+	"itemCapacity": 20,	
+	"craftTime": 85,
+	"consumes": {
+	},
+	"requirements": [
+		"compressed-titanium/50",
+        "titanium/100",
+        "graphite/75",
+		"compressed-lead/50"
+	],
+	"category": "production",
+	"research": "coal-drill",
+	"outputItem": "coal/2",
+    "drawer": {
+		"type": "DrawMulti",
+		"drawers": [
+        {
+                "type": "DrawDefault"
+        },
+		{
+			"type": "DrawRegion",
+			"suffix": "-rotator",
+			"rotateSpeed": 1.25,
+			"spinSprite": true
+		},
+        {
+			"type": "DrawRegion",
+			"suffix": "-top",
+			"spinSprite": false
+		}
+       ]
+	  }
+}
