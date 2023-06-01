@@ -28,6 +28,10 @@
     "requirements": [
 		"copper/1"
 	],
+	"research": [
+		"alexanderium", 
+		"budzirium"
+	],
     "outputItem": "budzanderium/2",
 	"category": "crafting" 
 }
