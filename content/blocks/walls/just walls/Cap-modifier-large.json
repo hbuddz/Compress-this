@@ -1,0 +1,14 @@
+{
+    "name": "Large Cap Modifer",
+    "description": "Modifies the unit cap",
+    "type": "Wall",
+    "health": 7000,
+    "size": 3,
+    "requirements": [
+        "budzanderium/10"
+    ],
+    "category": "units",
+    "research": "budzanderium",
+    "buildCostMultiplier": 300,
+    "unitCapModifier": 50
+}

@@ -6,7 +6,7 @@
     "size": 7,
     "hasItems": true,
     "itemCapacity": 25,
-	"craftTime": 300,
+	  "craftTime": 600,
     "buildCostMultiplier": 2,
     "consumes": {
 		"power": 7,

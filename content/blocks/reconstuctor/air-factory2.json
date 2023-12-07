@@ -1,0 +1,26 @@
+{
+    "name": "[#30de23]Mono Maker",
+    "description": "Makes monos for free bc i dont like wasting silicon on them things",
+    "health": 360,
+    "type":"unitFactory",
+    "size": 3,
+    "consumes": {"power": 1},
+    "plans":  
+    [
+      {
+        "unit": "mono",
+        "requirements": 
+        [
+        ],
+        "time": 1300}
+    ],
+    "itemCapacity": 0,
+    "requirements": 
+    [
+      "compressed-copper/60",
+      "compressed-lead/70"
+    ],
+    "category": "units",
+    "research": "mono"
+    }
+    

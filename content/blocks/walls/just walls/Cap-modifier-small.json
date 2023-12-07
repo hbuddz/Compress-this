@@ -1,0 +1,14 @@
+{
+    "name": "Small Cap Modifer",
+    "description": "Modifies the unit cap",
+    "type": "Wall",
+    "health": 2000,
+    "size": 5,
+    "requirements": [
+        "obsidian/100"
+    ],
+    "category": "units",
+    "research": "obsidian",
+    "buildCostMultiplier": 75,
+    "unitCapModifier": 5
+}

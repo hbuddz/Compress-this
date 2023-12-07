@@ -1,0 +1,22 @@
+{
+  "name": "Large Mechanical Drill",
+  "description": "Uses more tiles to mine ores.",
+  "type": "Drill",
+  "size": 4,
+  "tier": 2,
+  "drillTime": 680,
+  "consumes": {
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.3,
+      "booster": true,
+      "optional": true
+    }
+  },
+  "requirements": [
+    "copper/94",
+    "lead/36"
+  ],
+  "category": "production",
+  "research": "pneumatic-drill"
+  }

@@ -1,0 +1,23 @@
+{
+"name": "Large Pneumatic Drill",
+"description": "Uses more tiles to mine ores.",
+"type": "Drill",
+"size": 4,
+"tier": 3,
+"drillTime": 480,
+"consumes": {
+  "liquid": {
+    "liquid": "water",
+    "amount": 0.4,
+    "booster": true,
+    "optional": true
+  }
+},
+"requirements": [
+  "copper/108",
+  "lead/30",
+  "graphite/36"
+],
+"category": "production",
+"research": "pneumatic-drill"
+}

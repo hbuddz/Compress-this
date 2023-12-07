@@ -1,0 +1,13 @@
+{
+    "type": "Conveyor",
+    "name": "Budzanderium conveyor",
+    "description": "Has speeds beyond human recongnition",
+    "category": "distribution",
+    "health": 700,
+    "speed": 4,
+    "displayedSpeed": 200,
+    "requirements": [
+        "budzanderium/1"
+    ],
+    "research": "budzanderium"
+}
