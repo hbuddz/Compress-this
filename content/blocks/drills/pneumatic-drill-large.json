@@ -1,6 +1,6 @@
 {
 "name": "Large Pneumatic Drill",
-"description": "Uses more tiles to mine ores.",
+"description": "Uses more tiles to mine ores. The sprites for this are not mine, they belong to Notzero/yspoof.",
 "type": "Drill",
 "size": 4,
 "tier": 3,
